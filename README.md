@@ -1,2 +1,2 @@
-# PharmaPrice-tracker
+#index.html
 Pharmacy Medication Price Tracker
